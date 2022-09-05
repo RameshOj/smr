@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This Project is for Learning Purpose Only
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is Clone of Social Media.
 
 ## Available Scripts
 
